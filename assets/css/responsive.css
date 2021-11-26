@@ -1,0 +1,171 @@
+
+@media (max-width: 1080px){
+    .header-logo-img2
+    {
+        display: none;
+    }
+}
+@media (min-width: 740px) and (max-width: 970px){
+    
+    .header-nav-content
+    {
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    .header-button
+    {
+        margin-left: 20px;
+    }
+    .video-view-content h1
+    {
+        font-size: 30px;
+    }
+    .video-view-content h2
+    {
+        font-size: 20px;
+    }
+    .video-view-content h3
+    {
+        font-size: 16px;
+    }
+    .img-dow
+    {
+        height: 25px;
+    }
+    .video-market
+    {
+        padding: 80px 80px;
+    }
+    .img-tokenomics
+    {
+        /* position: relative;
+        top: 25px; */
+    }
+    .img-tokenomics-img
+    {
+        /* width: 80%;
+        line-height: 100%; */
+    }
+
+}
+@media (max-width: 739px){
+    .header
+    {
+        display: block;
+        padding-top: 2px;
+        
+    }
+    .header-logo
+    {
+        display: inline-block;
+        
+        
+    }
+    .header-logo-img
+    {
+        
+    }
+    .header-nav
+    {
+        display: block;
+        text-align: center;
+    }
+    .header-nav-content
+    {
+        display: block;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .header-button
+    {
+        display: block;
+        margin: 0 auto;
+    }
+    .video-view-content
+    {
+        position: inherit;
+        text-align: center;
+        width: 680px;
+        max-width: 90%;
+    }
+    .dowload
+    {
+        justify-content: space-around;
+    }
+    .video-market {
+        padding: 80px 85px;
+    }
+    .yt-video
+    {
+        display: block;
+    }
+    .ytvideogame
+    {
+        width: 100%;
+    }
+    .content-market
+    {
+        width: 100%;
+        padding: 20px 0;
+    }
+    .feature-market
+    {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .tokenomics
+    {
+        display: block;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .img-tokenomics
+    {
+        width: 100%;
+    }
+    .tokenomics-content
+    {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+    }
+    .tokenomics-content ul li
+    {
+        padding-left:0px
+    }
+    .secured-by h2
+    {
+        font-size: 36px;
+    }
+    .secured-by img
+    {
+        max-width: 100%;
+    }
+    .platform-area
+    {
+        padding: 40px;
+    }
+    .platform-area img
+    {
+        max-width: 6%;
+    }
+    .footer
+    {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .footer1
+    {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .footer2
+    {
+        width: 30%;
+    }
+    .inf-2021
+    {
+        font-size: 14px;
+    }
+}
